@@ -10,7 +10,7 @@ Openpose를 이용한 두 동작 간 유사도 분석 프로젝트.
 ---
 
 
-# Requirements
+## Requirements
 
 
 Openpose(Cuda)는 3060ti를 이용함.
@@ -19,9 +19,9 @@ Openpose(Cuda)는 3060ti를 이용함.
 Visual Studio 2017 버전 이용.
 
    
-   Openpose
+##   Openpose
 
 
-   Json Cpp
+##   Json Cpp
 
 
