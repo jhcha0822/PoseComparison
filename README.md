@@ -9,7 +9,6 @@ Openpose를 이용한 두 동작 간 유사도 분석 프로젝트.
 
 <br>
 
-
 ## Requirements
 
 
