@@ -18,7 +18,7 @@ Visual Studio 2017 버전 이용.
 
 
 
-# 0. Requirements
+# Requirements
 
    
    Openpose
