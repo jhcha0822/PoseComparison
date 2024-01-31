@@ -19,9 +19,9 @@ Openpose(Cuda)는 3060ti를 이용함.
 Visual Studio 2017 버전 이용.
 
    
-###   Openpose
+###      Openpose
 
 
-###   Json Cpp
+###      Json Cpp
 
 
